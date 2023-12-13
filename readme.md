@@ -1,2 +1,1 @@
-
-![zyro-image](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/7cee3214-d86b-41c0-a39c-b158c96cc113)
+![B](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/9ab7cb0f-9277-4345-ab72-b11652cea4f2)

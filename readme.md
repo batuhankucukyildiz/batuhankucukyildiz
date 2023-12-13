@@ -1,4 +1,5 @@
-### Welcome 
+![Purple Daily Horoscope Phone Video Instagram Story (3)](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/b6cd1bfd-dc49-4c44-9e7b-9be709c70956)
+### Welcome
 Follow along as I build iOS apps with Swift and SwiftUI.
 
 ### My Projects 

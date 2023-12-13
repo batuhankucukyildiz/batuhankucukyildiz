@@ -1,1 +1,2 @@
-![Adsız tasarım (11)](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/3568375a-33f3-4dc1-abbe-32842f10d566)
+
+![zyro-image](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/7cee3214-d86b-41c0-a39c-b158c96cc113)

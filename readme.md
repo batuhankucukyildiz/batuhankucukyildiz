@@ -6,7 +6,7 @@ Follow along as I build iOS apps with Swift and SwiftUI.
 
 ## TeaWatch - WatchApp
 
-- A home application based on Socketio, developed for smart home devices
+- [TeaWatch](https://github.com/batuhankucukyildiz/TeaWatch) application is a Socketio-based application developed for smart home devices.
   
 ![end](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/705c26fa-6f60-4aeb-a8eb-3866227ba6c7)
 

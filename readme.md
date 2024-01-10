@@ -15,7 +15,8 @@ Follow along as I build iOS apps with Swift and SwiftUI.
 
 - Switch on the camera, scan the product you want and wait to see the cheapest prices.
   
-  ![image1 2](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/f1335795-457e-4bbb-b0c2-2d98c59608c2)
+  ![image1 2](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/b626f0f0-6e0f-454e-86ca-120596715b95)
+
 
 ## Resizify 
 

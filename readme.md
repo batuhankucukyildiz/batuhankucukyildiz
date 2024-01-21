@@ -4,6 +4,17 @@ Follow along as I build iOS apps with Swift and SwiftUI.
 
 ### My Projects 
 
+## SunFrac
+- IoT-based mobile application for SunFrac systems
+- Technologies Used: 
+- Socket-io 
+- MapKit 
+- SwiftUI 
+- MVVM 
+
+![image1](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/5de26408-6851-49a3-a423-aec0a9c1b127)
+
+
 ## TeaWatch - WatchApp
 
 - [TeaWatch](https://github.com/batuhankucukyildiz/TeaWatch) application is a Socketio-based application developed for smart home devices.

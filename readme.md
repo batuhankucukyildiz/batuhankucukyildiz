@@ -10,9 +10,10 @@ Follow along as I build iOS apps with Swift and SwiftUI.
 - Socket-io 
 - MapKit 
 - SwiftUI 
-- MVVM 
+- MVVM
+- Bluetooth 
 
-![image1](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/5de26408-6851-49a3-a423-aec0a9c1b127)
+![Adsız tasarım (1)](https://github.com/batuhankucukyildiz/batuhankucukyildiz/assets/32312869/bc508589-3b8c-4ae5-affa-fba6be7c72b6)
 
 
 ## TeaWatch - WatchApp
